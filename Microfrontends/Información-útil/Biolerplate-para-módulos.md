@@ -1,0 +1,1 @@
+Para poder tener una referencia de como es que se debe trabajar un módulo para microfronts puedes revisar el siguiente respositorio https://dev.azure.com/PrimaAFPTeam/PrimaFrontend/_git/prima-module-boilerplate?path=%2Fsrc%2Fmodules

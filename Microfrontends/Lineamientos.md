@@ -1,0 +1,1 @@
+Las siguientes son todas las consideraciones que se deben tener en cuenta para poder desarrollar un módulo de microfront.
